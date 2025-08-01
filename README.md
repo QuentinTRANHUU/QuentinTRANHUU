@@ -2,7 +2,7 @@
 
 <p align="center">:dizzy: Bien le bonjour et la bienvenue sur mon Github ! :dizzy:</p>
 
-<p align="center">🧑‍🎓 Initié au code en autodidacte, je me suis reconverti dans l'analyse de donnée via une formation. Je retourne aujourd'hui à l'auto-apprentissage pour explorer plus avant l'IA ! 🤖 </p>
+<p align="center">🧑‍🎓 Initié au code en autodidacte, je me suis reconverti dans l'analyse de donnée via une formation intensive à la Wild Code School. Je retourne aujourd'hui à l'auto-apprentissage pour explorer plus avant l'IA ! 🤖 </p>
 
 ## <H2 align="center">🧰 Mes outils : </H2>
 
