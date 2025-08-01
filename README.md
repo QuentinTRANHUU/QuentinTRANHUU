@@ -1,4 +1,4 @@
-# <H1 align="center">Quentin TRAN HUU - Data Analyst et Machine Learning :chart_with_upwards_trend:</H1>
+# <H1 align="center">Quentin TRAN HUU - Data Analytics et Machine Learning :chart_with_upwards_trend:</H1>
 
 <p align="center">:dizzy: Bien le bonjour et la bienvenue sur mon Github ! :dizzy:</p>
 
